@@ -1,0 +1,6 @@
+2024-11-28 15:57:11.294 | [INFO] | ROUTE: /api/v1/store/getTransferOrderInvoiceDetails | INPUT: {"invoiceNo":"KMS_ULT/846966"}
+2024-11-28 15:58:36.415 | [INFO] | ROUTE: /api/v1/store/getTransferOrderInvoiceDetails | INPUT: {"invoiceNo":"KMS_SLD/851886"}
+2024-11-28 15:58:42.996 | [INFO] | ROUTE: /api/v1/store/getTransferOrderInvoiceDetails | INPUT: {"invoiceNo":"KMS_SLD/851886"}
+2024-11-28 15:58:57.484 | [INFO] | ROUTE: /api/v1/store/getTransferOrderInvoiceDetails | INPUT: {"invoiceNo":"KMS_SLD/851886"}
+2024-11-28 15:59:52.670 | [INFO] | ROUTE: /api/v1/store/getTransferOrderInvoiceDetails | INPUT: {"invoiceNo":"KMS_SLD/851886"}
+2024-11-28 16:05:18.854 | [INFO] | ROUTE: /api/v1/store/getTransferOrderInvoiceDetails | INPUT: {"invoiceNo":"KMS_ULT/846966"}
